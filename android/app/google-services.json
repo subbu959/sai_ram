@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64055569222",
+    "firebase_url": "https://sai-ram-cc479.firebaseio.com",
+    "project_id": "sai-ram-cc479",
+    "storage_bucket": "sai-ram-cc479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64055569222:android:c1d5520c351dc4d3075347",
+        "android_client_info": {
+          "package_name": "com.example.sai_ram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64055569222-dgq35mibh3hgrrm8k37a2pjgcrsur5bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1ULaXB9r8lsxVLGIu8Z2r6IOCgek478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64055569222-dgq35mibh3hgrrm8k37a2pjgcrsur5bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
